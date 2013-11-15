@@ -16,7 +16,7 @@
         android:textStyle="bold"
         android:textSize="50sp"
         android:gravity="center"
-        android:text="TILE GAME GOES HERE\n DELETE ME!" />
+        android:text="TILE GAME GOES HERE\n DELETE ME!"/>
 
     <!-- This FrameLayout insets its children based on system windows using
          android:fitsSystemWindows. -->
