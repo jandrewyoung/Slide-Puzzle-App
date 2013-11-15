@@ -35,4 +35,11 @@
 
     <style name="ButtonBarButton" />
 
+    <style name="TextStyle">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:paddingTop">2dp</item>
+    </style>>
+
 </resources>
